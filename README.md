@@ -1,7 +1,7 @@
 # glaze_layer_analysis
 Python code for WOM2021 paper "understanding the role of glaze layer with aligned images from multiple surface characterization techniques" 
 
-Sample input data provided in /300C_plate for charactreization results of 300C fretting result of 310S stainless steel.
+Toy input data will be provided in later release.
 
 Corrent version: 1.0
 
