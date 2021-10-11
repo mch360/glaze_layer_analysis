@@ -10,7 +10,7 @@ The full paper can be found in /Paper folder
 # Assosiated Presentations
 
 #### a. 15min Oral presentaion given by Chuchu Zhang at the 23rd WOM conference:
-https://youtu.be/uSsat1_Udz8
+https://www.youtube.com/watch?v=uY-_lnMIdiA
  
 Slides can be found in /Presentation folder
 
