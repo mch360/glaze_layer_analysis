@@ -5,7 +5,7 @@ Corrent version: 1.0
 
 This work won the "Ken Ludema Best Paper Award" of the 23rd International Conference on Wear Of Material
 
-The full paper can be found in /Paper folder
+The full paper can be found in /Publication folder
 
 # Assosiated Presentations
 
