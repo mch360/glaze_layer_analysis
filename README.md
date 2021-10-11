@@ -1,11 +1,26 @@
 # glaze_layer_analysis
 Python code for WOM2021 paper "understanding the role of glaze layer with aligned images from multiple surface characterization techniques" 
 
+Sample input data provided in /300C_plate for charactreization results of 300C fretting result of 310S stainless steel.
+
 Corrent version: 1.0
 
 This work won the "Ken Ludema Best Paper Award" of the 23rd International Conference on Wear Of Material
 
 The full paper can be found in /Publication folder
+
+# Environmental Dependencies
+
+python 3.6
+
+opencv-python 4.2.0.34
+
+numpy 1.18.2
+
+scipy 1.4.1
+
+matplotlib 3.2.1
+
 
 # Assosiated Presentations
 
